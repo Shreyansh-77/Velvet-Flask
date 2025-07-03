@@ -8,7 +8,7 @@ const navLinks = [
         title: "About Us",
     },
     {
-        id: "#work",
+        id: "#art",
         title: "The Art",
     },
     {
@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
     heading: "Where to Find Us",
-    address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    address: "456, Raq Blvd. #404, India, CA 90210",
     contact: {
-        phone: "(555) 987-6543",
-        email: "hello@jsmcocktail.com",
+        phone: "999-888-1111",
+        email: "hello@vlevetflask.com",
     },
 };
 
