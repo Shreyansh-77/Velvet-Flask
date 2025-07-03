@@ -73,7 +73,7 @@ const Hero = () => {
 
             <div className="body">
                 <div className='content'>
-                    <div className='space-y-5 hidden md:block'>
+                    <div className='space-y-5 md:block'>
                         <p>Cool, Crisp, Classic</p>
                         <p className='subtitle'>
                             Sip the Spirit <br /> of Summer
